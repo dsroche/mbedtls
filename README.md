@@ -8,6 +8,10 @@ original mbed TLS library except for this preamble to the README, and
 the Makefile which has been stripped-down and customized again for the
 `detworam` project.
 
+To compile this fork for the `detworam` project, just run `make` to
+compile the static library `libcr.a`, and add the `include` directory to
+your search path when compiling `detworam`.
+
 README for mbed TLS
 ===================
 
