@@ -1,3 +1,13 @@
+NOTES for detworam
+==================
+
+This is a fork of the mbed TLS library, available from
+<https://tls.mbed.org/>, stripped down to contain only those files
+necessary for the `detworam` project. All files are unmodified from the
+original mbed TLS library except for this preamble to the README, and
+the Makefile which has been stripped-down and customized again for the
+`detworam` project.
+
 README for mbed TLS
 ===================
 
